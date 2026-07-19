@@ -1,3 +1,4 @@
+##Count the number of even and odd elements present in an array.
 arr=[]
 n=int(input("Enter the size of an array:"))
 for i in range(n):
