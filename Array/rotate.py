@@ -1,4 +1,4 @@
-##51.Rotate an array to the right by a given number of positions.
+##49.Rotate an array to the right by a given number of positions.
 arr=[]
 n=int(input("Enter the no of elements:"))
 for i in range(n):

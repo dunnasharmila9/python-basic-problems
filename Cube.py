@@ -1,4 +1,4 @@
-##
+##28.Find the square, cube, and square root of a given number.
 a=int(input("Enter the Number:"))
 sq=pow(a,2)
 cu=pow(a,3)

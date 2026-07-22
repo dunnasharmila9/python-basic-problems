@@ -1,4 +1,4 @@
-## 41.Calculate the total cost of multiple products using variables.
+## 39.Calculate the total cost of multiple products using variables.
 P=int(input("Enter the cost of pencil"))
 B=int(input("Enter the cost of Book"))
 WB=int(input("Enter the cost of Waterbottle"))
