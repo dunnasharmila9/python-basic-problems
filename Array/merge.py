@@ -1,3 +1,4 @@
+##Merge two arrays into a single array without using built-in merge functions.
 arr1=[]
 n=int(input("Enter the size of an array 1:"))
 for i in range(n):

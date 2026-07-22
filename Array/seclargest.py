@@ -1,3 +1,4 @@
+##50.Find the second largest element in an array.
 arr=[]
 n=int(input("Enter the size of an array:"))
 for i in range(n):

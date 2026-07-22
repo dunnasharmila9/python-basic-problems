@@ -1,3 +1,4 @@
+##46.Calculate the sum of all elements in an array without using the sum() function.
 from array import*
 arr=array("i",[])
 n=int(input("Enter the size of array:"))

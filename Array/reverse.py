@@ -1,3 +1,4 @@
+##47.Reverse an array without using built-in reverse functions.
 arr=[]
 n=int(input("Enter the size of an array:"))
 for i in range(n):

@@ -1,3 +1,6 @@
+##44.Find the largest element in an array without using the max() function.
+##45.Find the smallest element in an array without using the min() function
+
 arr=[]
 n=int(input("Enter the array size:"))
 for j in range(n):

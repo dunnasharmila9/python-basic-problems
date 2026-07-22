@@ -1,4 +1,4 @@
-## 51.Implement Linear Search to find an element in an array.
+## 53.Implement Linear Search to find an element in an array.
 arr=[]
 n=int(input("Enter the size of the array:"))
 for i in range(n):
