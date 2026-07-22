@@ -11,4 +11,4 @@ for i in range(n):
     if min>arr[i]:
         min=arr[i]
 print("Maximum Element in given array:",max)
-print("Minimum Element in the array:",min)                
+print("Minimum Element in the given  array:",min)                

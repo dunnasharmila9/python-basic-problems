@@ -1,3 +1,6 @@
+## 24.Convert Celsius to Fahrenheit.
+## 25.Convert Fahrenheit to Celsius.
+
 F=float(input("Enter the Temperature in the Faherenheit:"))
 C=float(int(input("Enter the Temperature in Celsius:")))
 CF=(C*9/5)+32

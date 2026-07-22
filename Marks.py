@@ -1,3 +1,5 @@
+##40.Create a mini Student Report Card that displays student details, total marks, average, percentage, pass status, and the data type of every variable used.
+##35.Calculate the percentage obtained by a student and determine whether the student has passed
 N=input("Enter the Student Name:")
 R=input("Enter the student Roll number:")
 B=input("Enter the Branch of a Student:")

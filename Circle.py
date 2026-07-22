@@ -1,3 +1,4 @@
+##21.Calculate the area and circumference of a circle.
 radius = float(input("Enter radius of the circle: "))
 pi = 3.14159
 area = pi * (radius ** 2)

@@ -1,3 +1,4 @@
+## 10.Convert a string containing a number into an integer and perform addition.
 user_string = input("Enter a number as a string: ")
 number_to_add = int(input("Enter another integer to add to it: "))
 

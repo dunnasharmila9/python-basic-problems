@@ -1,3 +1,6 @@
+##22.Calculate the simple interest for given principal, rate, and time.
+##23.Calculate the compound interest for given principal, rate, and time
+
 a=float(input("Enter the Principle:"))
 b=float(input("Enter the rate:"))
 c=float(input("Enter the time:"))

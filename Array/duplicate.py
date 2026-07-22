@@ -1,3 +1,4 @@
+##Remove duplicate elements from an array without using set().
 arr=[]
 n=int(input("Enter the size of the array:"))
 for i in range(n):

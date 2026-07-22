@@ -1,3 +1,4 @@
+##1.Create variables to store your name, age, college, branch, and CGPA. Print all the details in a formatted way.
 Name="Dunna sharmila"
 age=20
 college="Aditya University"

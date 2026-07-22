@@ -1,3 +1,4 @@
+## 16.Compare two numbers using ==, !=, >, <, >=, and <= operators.
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 print("Is equal to (==):", num1 == num2)

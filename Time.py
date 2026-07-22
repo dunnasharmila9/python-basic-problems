@@ -1,3 +1,5 @@
+## 26. total minutes into hours and remaining minutes.
+## 27.Convert total seconds into hours, minutes, and seconds.
 
 M=int(input("Enter the time in minute:"))
 S=int(input("Enter the time in Second:"))
